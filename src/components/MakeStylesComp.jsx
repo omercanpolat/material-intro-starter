@@ -29,3 +29,4 @@ const MakeStylesComp = () => {
 };
 
 export default MakeStylesComp;
+// deneme
