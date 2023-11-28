@@ -23,11 +23,11 @@ const Home = () => {
 
   return (
     <ThemeProvider theme={theme}>
-      {/* <TypoButtons />
-      <TextFieldComp /> */}
+       {/* <TypoButtons /> */}
+      {/* <TextFieldComp />  */}
       <AppBarComp />
       <CardGrid />
-      <MakeStylesComp />
+      {/* <MakeStylesComp /> */}
     </ThemeProvider>
   )
 }

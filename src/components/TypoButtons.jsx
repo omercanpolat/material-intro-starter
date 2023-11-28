@@ -1,6 +1,6 @@
-import Typography from "@mui/material/Typography"
-import Container from "@mui/material/Container"
-import { Box, Button, Stack } from "@mui/material" //* Bu import sekli Performans acisindan problemli
+import Typography from "@mui/material/Typography" //* Bu import şekli Performans acisindan daha uygun, daha hızlı
+import Container from "@mui/material/Container" //* Bu import şekli Performans acisindan daha uygun, daha hızlı
+import { Box, Button, Stack } from "@mui/material" //! Bu import şekli Performans acisindan problemli
 
 const TypoButtons = () => {
   return (
